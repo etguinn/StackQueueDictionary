@@ -1,3 +1,3 @@
 # StackQueueDictionary
 
-An MVC application displaying the features of using stacks, queues, and dictionaries in data structures.
+An MVC (Model View Controller) application displaying the features of using stacks, queues, and dictionaries in an ASP.Net framework.
